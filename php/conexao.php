@@ -1,7 +1,7 @@
 <?php 
 
 //Variáveis
-$url = "localhost";
+$url = "localhost:3333";
 $usuario = "root";
 $senha = "";
 $base = "api";
